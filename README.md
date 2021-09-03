@@ -1,1 +1,1 @@
-# dibetes_analysis
+# diabetes_analysis
